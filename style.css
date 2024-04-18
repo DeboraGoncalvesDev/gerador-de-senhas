@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body, html{
+    background-color: #2E6171 ;
+}
